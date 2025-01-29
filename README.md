@@ -49,9 +49,3 @@ Here's a clear and simple guide to help you create those amazing videos with dat
 
 #### Step 5: Enjoy the Result
 - **Relive Your Ride**: After the program finishes processing, sit back and enjoy your cycling journey with all the key data beautifully integrated into your video.
-
-## Example Video
-
-Here's an example video that gives you an idea of what you can create.
-
-[![Fat Cake - Hawk Hill - August 22, 2023](https://img.youtube.com/vi/KuYK_RrEdTI/0.jpg)](https://www.youtube.com/watch?v=KuYK_RrEdTI)
